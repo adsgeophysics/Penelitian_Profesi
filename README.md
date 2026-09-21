@@ -1,7 +1,8 @@
-# Google Earth Engine Processing Scripts — Paper GWL Mapping in South Sumatera
+# Google Earth Engine Processing Scripts — Paper A
 
 **Companion code repository for:**
-"Field-Calibrated Multisource Remote Sensing and Machine Learning for Peatland Groundwater Level Mapping in South Sumatra, Indonesia" — Irfan et al., 
+"Field-Calibrated Multisource Remote Sensing and Machine Learning for Peatland Groundwater Level Mapping in South Sumatra, Indonesia" — Irfan et al., submitted to *Remote Sensing Applications: Society and Environment*.
+
 This repository contains the Google Earth Engine (GEE) JavaScript scripts used for satellite predictor extraction, SMAP composite construction, field–satellite timestamp auditing, and spatial deployment (scene-level GWL prediction) described in Section 2 of the manuscript. Offline Python code (model fitting, LOSO/temporal validation, raster aggregation, and bootstrap uncertainty) is maintained separately and is not part of this GEE repository.
 
 ## How to run a script
